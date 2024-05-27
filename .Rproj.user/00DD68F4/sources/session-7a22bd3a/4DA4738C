@@ -3,7 +3,7 @@
     "path": "~/Documents/4 learning:workshops/1 programming/Personal_website/_site.yml",
     "project_path": "_site.yml",
     "type": "yaml",
-    "hash": "778764801",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1715605998078.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "18,32",
+        "cursorPosition": "12,6",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1716819180,
+    "lastKnownWriteTime": 1716822261,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1716819180857,
+    "last_content_update": 1716822261622,
     "read_only": false,
     "read_only_alternatives": []
 }

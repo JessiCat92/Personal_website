@@ -1,0 +1,22 @@
+---
+title: "Media coverage"
+output:
+  distill::distill_article:
+css: theme.css
+header_class: "custom-header"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# Print 
+
+<p> My colleague and I gave an interview on climate anxiety for the Basler Zeitung <br>
+*unfortunately only in german* </p>
+[«Click here!»](https://www.bazonline.ch/basler-forschung-zu-klimaangst-es-ist-absolut-gerechtfertigt-angst-zu-empfinden-447815068086)
+
+<center>
+![**](images/baz_climateAnxiety.png)
+</center>
