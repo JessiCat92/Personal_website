@@ -9,6 +9,9 @@
    All rows must end with a semi-colon.                      */
 
 /* Optional: embed custom fonts here with `@import`          */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&family=Raleway:ital,wght@0,100..900;1,100..900&family=Sevillana&display=swap');
+
 /* This must remain at the top of this file.                 */
 
 
@@ -75,6 +78,12 @@ d-appendix {
 
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
+
+/*Fonts */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway";
+}
+
 
 .custom-header {
     background-image: url('images/mountains.jpeg');

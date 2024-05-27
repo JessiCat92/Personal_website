@@ -1,5 +1,8 @@
 ---
 title: "What I'm currently busy with..."
+output:
+  distill::distill_article:
+css: theme.css
 ---
 
 ```{r setup, include=FALSE}
@@ -13,7 +16,7 @@ We're testing a new information search paradigm, where people can voluntarily se
 
 ## Carbon Tax 
 
-The longitudinal project is settled within a larger panel study in three countries: Germany, China and the US. We aim to identify 
+The longitudinal project is settled within a larger panel study in three countries: Germany, China and the US.
 
 ## Climate Anxiety 
 

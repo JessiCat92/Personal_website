@@ -2,8 +2,9 @@
 title: "Publications"
 output:
   distill::distill_article:
-    css: custom.css
-header_class: "page3-header"
+css: theme.css
+header_class: "custom-header"
+
 ---
 
 ```{r setup, include=FALSE}

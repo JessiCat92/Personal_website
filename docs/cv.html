@@ -110,7 +110,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description"]}},"value":[{"type":"character","attributes":{},"value":["Curriculum Vitae"]},{"type":"character","attributes":{},"value":["*or: my not so straight way to research*"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","css"]}},"value":[{"type":"character","attributes":{},"value":["Curriculum Vitae"]},{"type":"character","attributes":{},"value":["*or: my not so straight way to research*\n"]},{"type":"character","attributes":{},"value":["theme.css"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2187,6 +2187,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
      All rows must end with a semi-colon.                      */
 
   /* Optional: embed custom fonts here with `@import`          */
+  @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Jacquard+12&family=Raleway:ital,wght@0,100..900;1,100..900&family=Sevillana&display=swap');
+
   /* This must remain at the top of this file.                 */
 
 
@@ -2253,6 +2256,12 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   /*-- Additional custom styles --*/
   /* Add any additional CSS rules below                      */
+
+  /*Fonts */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Raleway";
+  }
+
 
   .custom-header {
       background-image: url('images/mountains.jpeg');
@@ -2426,6 +2435,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_site_in_header-->
   <!--/radix_placeholder_site_in_header-->
 
+  <link rel="stylesheet" href="theme.css" type="text/css"/>
 
 </head>
 
@@ -2450,7 +2460,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <a href="cv.html">CV</a>
 <a href="publications.html">Publications</a>
 <a href="currentResearch.html">Current Research Projects</a>
-<a href="contact.html">Get in touch</a>
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
 </div>
 </nav>
@@ -2469,7 +2478,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
-<h3 id="experience">Experience</h3>
+<h2 id="experience">Experience</h2>
 <p><strong>PhD &amp; Research Assistant</strong>
 University of Basel - Psychology of Sustainability and Behavior Change | since October 2023</p>
 <p><strong>Student Research Assistant</strong>
@@ -2482,7 +2491,7 @@ Psychological Institute, Cognition, Action and Sustainability | Freiburg | 2018 
 Business design people AG | Mannheim | 2014</p>
 <p><strong>Store Manager &amp; Retail Saleswoman/ Druggist</strong>
 dm-drogeriemarkt GmbH &amp; Co. KG| Rockenhausen | 2009 – 2014</p>
-<h3 id="education">Education</h3>
+<h2 id="education">Education</h2>
 <p><b>PhD Psychology </b> <br>
 University of Basel | since 2023</p>
 <p><b>M.Sc. – Psychology</b> <br>
@@ -2495,12 +2504,12 @@ University of Business and Society, Ludwigshafen | 2018</p>
 Universidad Finis Terrae, Santiago de Chile | 2017</p>
 <p><b>Apprenticeship Retail-saleswoman/ Druggist</b> <br>
 dm-drogeriemarkt GmbH &amp; Co. KG | 2009 – 2012</p>
-<h3 id="conferences">Conferences</h3>
+<h2 id="conferences">Conferences</h2>
 <p><strong>International Conference on Environmental Psychology</strong>, Aarhus, Denmark, 2023
 Talk: Public perceptions of emerging climate technologies: Information processing, and risk-benefit evaluations</p>
-<h3 id="teaching">Teaching</h3>
+<h2 id="teaching">Teaching</h2>
 <p>Masterstudents Supervision; Project: Climate Anxiety</p>
-<h3 id="skills">Skills</h3>
+<h2 id="skills">Skills</h2>
 <p><strong>Basic</strong>
 HTMl
 JavaScript

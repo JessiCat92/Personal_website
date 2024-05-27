@@ -17,3 +17,4 @@ navbar:
     - text: "Current Research Projects"
       href: currentResearch.html
 output: distill::distill_article
+  
