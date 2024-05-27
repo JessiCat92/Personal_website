@@ -59,13 +59,13 @@ Masterstudents Supervision; Project: Climate Anxiety
 ## Skills 
 
 **Basic**
-HTMl
-JavaScript
-CSS
-oTree
-lab.js 
+- HTML
+- JavaScript
+- CSS
+- oTree
+- lab.js 
 
 **Advanced** 
-R & Statistics 
+- R & Statistics 
 
 

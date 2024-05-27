@@ -1,5 +1,5 @@
 ---
-title: "Jessica F. Helm"
+title: "Welcome!"
 image: "images/Look3.jpg"
 links:
   - label: LinkedIn
@@ -18,5 +18,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-Welcome! 
-I'm a Psychologist and Researcher living close to the Swiss Alps. I'm currently pursuing my PhD at the University of Basel at the [Psychology of Sustainability and Behavior Change Team](https://psychologie.unibas.ch/de/fakultaet/abteilungen/sustainability-and-behavior-change/ )
+<p> I'm Jessica and I'm a psychologist and researcher living close to the Swiss Alps. I'm currently pursuing my PhD at the University of Basel at the [Psychology of Sustainability and Behavior Change Team](https://psychologie.unibas.ch/de/fakultaet/abteilungen/sustainability-and-behavior-change/ ) </p>

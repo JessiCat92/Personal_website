@@ -64,7 +64,7 @@ d-appendix {
 .distill-site-header {
   --title-size:       18px;
   --text-color:       rgba(255, 255, 255, 0.8);
-  --text-size:        15px;
+  --text-size:        20px;
   --hover-color:      white;
   --bkgd-color:       #B1CCB9;
 }
@@ -84,9 +84,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway";
 }
 
-
 .custom-header {
     background-image: url('images/mountains.jpeg');
     background-size: cover; /* Adjust as needed */
-    /* Additional styling properties as needed */
 }

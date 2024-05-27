@@ -11,8 +11,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Carbon Dioxide Removal 
 
-The project aims to identify affective mechanisms in information search about emerging technologies such as carbon dioxide removal. 
-We're testing a new information search paradigm, where people can voluntarily select pieces of information about Carbon Dioxide Removal technologies followed by an affective evaluation of the technology. Subsequently, we want to test whether this affective reactions towards the technology are carried over and are predictive for policy acceptance. 
+<p> The project aims to identify affective mechanisms in information search about emerging technologies such as carbon dioxide removal. </p>
+<center>
+![*Overview of carbon dioxide removal methods*](images/Geoengineering.jpeg){width=75%}
+</center>
+<p> We're testing a new information search paradigm, where people can voluntarily select pieces of information about Carbon Dioxide Removal technologies followed by an affective evaluation of the technology. Subsequently, we want to test whether this affective reactions towards the technology are carried over and are predictive for policy acceptance. </p>
 
 ## Carbon Tax 
 

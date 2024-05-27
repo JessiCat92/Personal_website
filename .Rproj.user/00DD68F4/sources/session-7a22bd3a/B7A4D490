@@ -3,24 +3,24 @@
     "path": "~/Documents/4 learning:workshops/1 programming/Personal_website/currentResearch.Rmd",
     "project_path": "currentResearch.Rmd",
     "type": "r_markdown",
-    "hash": "1706138891",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1715607670666.0,
     "source_on_save": false,
-    "relative_order": 4,
+    "relative_order": 6,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "3,27",
-        "scrollLine": "0"
+        "cursorPosition": "20,0",
+        "scrollLine": "9"
     },
     "folds": "",
-    "lastKnownWriteTime": 1716819605,
+    "lastKnownWriteTime": 1716820879,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1716819605625,
+    "last_content_update": 1716820879155,
     "read_only": false,
     "read_only_alternatives": []
 }
