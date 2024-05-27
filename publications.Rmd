@@ -1,0 +1,16 @@
+---
+title: "Publications"
+output:
+  distill::distill_article:
+    css: custom.css
+header_class: "page3-header"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+Fenn J, <b>Helm JF</b>, Höfele P, Kulbe L, Ernst A, Kiesel A (2023) Identifying key-psychological factors influencing the acceptance of yet emerging technologies–A multi-method-approach to inform climate policy. PLOS Clim 2(6): e0000207. https://doi.org/10.1371/journal.pclm.0000207
+
+Frings L, <b>Helm JF</b>, Hahnel, UJJ [Manuscript submitted for publication] Unraveling the multidimensional impacts of the energy crisis on citizens’ judgment and decision-making, 25 December 2023, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-3705261/v1]

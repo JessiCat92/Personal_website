@@ -1,0 +1,16 @@
+---
+title: "About me"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(postcards)
+```
+
+ My journey into research was anything but straightforward. After finishing school, I initially worked in retail, where I managed a drugstore for a while. It was a valuable experience, but I soon realized that my academic curiosity was far from satisfied. <br>
+
+Because of the formal regulations surrounding my previous education, I decided to pursue a degree in marketing, which was the closest field related to my professional background. My studies were enriching, but it wasn't until I spent the final days of my exchange semester at Chile's breathtaking Torres del Paine National Park that I had a sudden epiphany. I realized that my intellectual hunger was still not satiated, and I needed to follow my long-held interest in psychology. <br>
+
+This realization led me to the University of Freiburg, where I discovered my true passion for research while working as a student research assistant. Engaging in academic research felt like finding the perfect fit for my inquisitive nature and desire to explore deeper questions. <br>
+
+When I'm not immersed in research, I love spending time outdoors. You'll often find me exploring the Alps or relaxing at home on the terrace with my three cats. These moments of tranquility and adventure provide the perfect balance to my academic pursuits.
